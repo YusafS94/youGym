@@ -4,7 +4,8 @@
             "name": "Pushups",
             "description": "Enter description",
             "url": "https://www.google.com",
-            "categories": ["calisthenics", "bodyweight", "chest", "push"]
+            "categories": ["calisthenics", "bodyweight", "chest", "push"],
+            "image": "image url"
         }
     ]
 }
